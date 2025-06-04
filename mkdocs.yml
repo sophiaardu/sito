@@ -18,7 +18,6 @@ theme:
 
 plugins:
   - search
-  - tags
 
 nav:
   - Home: index.md
