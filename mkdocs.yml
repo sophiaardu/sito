@@ -1,25 +1,24 @@
 site_name: My Docs
 theme:
-name: material
-features:
-  - navigation.instant
-  - navigation.instant.progress
-  - navigation.instant.preview
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.sections
-  - navigation.expand
-  # - toc.integrate
-  - navigation.top
-  - search.suggest
-  - search.highlight
-  - search.share
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
 
 plugins:
   - search
   - tags
-  
 
 nav:
   - Home: index.md
