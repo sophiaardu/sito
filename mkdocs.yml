@@ -22,5 +22,5 @@ nav:
   - Home: index.md
   - About: 
     - About Me: about/about.md
-    - Childhood: about/blog.md
+    - Blog: about/blog.md
   
